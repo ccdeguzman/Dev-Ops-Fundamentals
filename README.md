@@ -6,10 +6,10 @@ Christian de Guzman
 
 ## Goal
 To develop a deep, practical understanding of DevSecOps that strengthens my engineering skills, improves my security awareness, and prepares me for real-world cloud-native environments.
--Build a strong foundation in DevSecOps principles
--Learn and practice Docker containerization
--Understand and deploy workloads using Kubernetes
--Track my growth with hands-on labs, notes, and examples
+- Build a strong foundation in DevSecOps principles
+- Learn and practice Docker containerization
+- Understand and deploy workloads using Kubernetes
+- Track my growth with hands-on labs, notes, and examples
 
 ## File Structure
 ```
@@ -23,6 +23,6 @@ To develop a deep, practical understanding of DevSecOps that strengthens my engi
 │    └── exercises/
 ```
 ## Tools and Technologies 
-Docker
-Kubernetes
-Terraform
+- Docker
+- Kubernetes
+- Terraform
